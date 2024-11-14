@@ -1,1 +1,1 @@
-# Detector-y-traductor-de-lenguaje-de-se-as-al-espa-ol
+# Detector-y-traductor-de-lenguaje-de-senias-al-espanol
